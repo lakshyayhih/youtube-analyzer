@@ -1,0 +1,7 @@
+streamlit
+spacy
+textblob
+wordcloud
+scikit-learn
+transformers
+nltk
