@@ -6,4 +6,8 @@ scikit-learn
 transformers
 nltk
 youtube-transcript-api
+transformers
+torch
+sentencepiece
+
 
