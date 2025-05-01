@@ -5,3 +5,5 @@ wordcloud
 scikit-learn
 transformers
 nltk
+youtube-transcript-api
+
